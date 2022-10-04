@@ -1,0 +1,3 @@
+# Nombre producto: Papas, ID: 1234, valor: 500
+# Nombre producto: Piña, ID: 3, valor: 543
+

@@ -1,0 +1,3 @@
+$ Nombre empleado: Juanito, ID: 10882, sueldo: 20000
+$ Nombre empleado: Nicolás, ID: 120994, sueldo: 432000
+
